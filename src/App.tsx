@@ -58,7 +58,7 @@ function App() {
         </div>
         <div className="nav__right">
   {/* Enlace a tu perfil de GitHub */}
-  <a href="https://github.com/TU_USUARIO" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/samueldavid-developer/netflix-clone" target="_blank" rel="noopener noreferrer">
     <img
       className="nav__avatar"
       src="logogit.png" 
