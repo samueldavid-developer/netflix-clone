@@ -61,7 +61,7 @@ function App() {
   <a href="https://github.com/TU_USUARIO" target="_blank" rel="noopener noreferrer">
     <img
       className="nav__avatar"
-      src="public/logogit.png" 
+      src="logogit.png" 
       alt="GitHub Profile"
     />
   </a>
